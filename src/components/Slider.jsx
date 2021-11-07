@@ -62,7 +62,7 @@ const Slider = () => {
                 <Slide> 
                 
                 <ImgContainer>
-                    <Image src= "../images/eagle-1450672.jpg"/>
+                    <Image src= "/images/eagle-1450672.jpg"/>
                 </ImgContainer>
                 
                 <InfoContainer></InfoContainer>
